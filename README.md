@@ -69,10 +69,6 @@ EcommerceApp es una aplicación móvil minimalista, desarrollada en React Native
 - **Expo Location & Camera:** Permisos de hardware
 - **Navegación:** Stack + Bottom Tabs
 
-## Screenshots
-
-> [Agrega aquí capturas de pantalla de la app corriendo]
-
 ## Para expandir el proyecto
 
 - Agregar tests con Jest + React Native Testing Library
