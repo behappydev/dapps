@@ -3,6 +3,5 @@ node_modules/
 *.log
 .expo/
 package-lock.json
-app.config.js
 app.json
 eas.json
