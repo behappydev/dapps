@@ -1,8 +1,8 @@
 node_modules/
 .env
 *.log
- .expo/
-      package-lock.json
-              app.config.js
-        app.json
-        eas.json
+.expo/
+package-lock.json
+app.config.js
+app.json
+eas.json
